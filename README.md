@@ -1,6 +1,6 @@
-## Bem-vindo, meu nome é Mateus Carvalho e sou um Web Developer em formação!🔥
+## Bem-vindo, meu nome é Mateus Carvalho e sou Senior backend Engineer!🔥
 
-- ⚡Atualmente estou focado em aprender HTML5, CSS3 e JavaScript
+- ⚡Atualmente estou em desbravar a IA!
 - 📧Contate-me no email: mattsdev22@gmail.com
 
 <div align="center">
@@ -21,7 +21,7 @@
  
 <div> 
   <a href = "mailto:mattsdev22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-carvalho-de-araújo-294831236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mateus-carvalho-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Mateuscrvlh/Mateuscrvlh/blob/output/github-contribution-grid-snake.svg)
  
